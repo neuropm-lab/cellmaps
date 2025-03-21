@@ -11,8 +11,6 @@ High-resolution imputed maps of spatial cell-type distributions can be used to s
 
 Authors: Veronika Pak, Quadri Adewale, Professor Yasser Iturria Medina
 
-DOI: 10.1101/2023.06.08.544227
-
 Contact information: veronika.pak@mail.mcgill.ca
 
 ## Maps Description
@@ -23,7 +21,7 @@ Contact information: veronika.pak@mail.mcgill.ca
 - registered to the Montreal Neurological Institute (MNI) brain space
 - normalized and scaled relative to gray matter volume distribution
 - reconstructed from post-mortem bulk gene expression data from the Allen Human Brain Atlas
-- for methods, see [publication](https://doi.org/10.1101/2023.06.08.544227)
+- for methods, see [publication](https://elifesciences.org/articles/89368)
 
 ## regionalCorr.m
 The MATLAB code allows you to extract regional values, perform statistical analysis, and compute correlations between the regional cell type proportions and the neuroimaging phenotype across the atlas regions.
